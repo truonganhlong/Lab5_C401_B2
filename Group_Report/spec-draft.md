@@ -4,7 +4,7 @@
 
 ## Problem statement: 
 
-Sinh viên và phụ huynh thường gặp vướng mắc trong việc tìm hiểu các quy định, thủ tục hành chính, đăng ký tín chỉ hay điều kiện xét học bổng, xem lịch học, lịch thi, điểm số, ... Hiện tại, họ phải xem qua các tài liệu quy chế dài hoặc liên hệ trực tiếp phòng ban, mất nhiều thời gian do phải chờ phản hồi và tra cứu thủ công.
+Sinh viên và phụ huynh thường gặp vướng mắc trong việc tìm hiểu các quy định, thủ tục hành chính, đăng ký tín chỉ hay điều kiện xét học bổng, xem lịch học, lịch thi, điểm số,... Hiện tại, họ phải xem qua các tài liệu quy chế dài hoặc liên hệ trực tiếp phòng ban, mất nhiều thời gian do phải chờ phản hồi và tra cứu thủ công. AI có thể tương tác hỏi đáp tự nhiên, tra cứu quy chế kịp thời và hướng dẫn chi tiết các thủ tục nhanh chóng, chính xác.
 
 ## 1. CANVAS DRAFT
 
